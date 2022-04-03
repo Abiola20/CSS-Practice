@@ -1,0 +1,43 @@
+.workspace{
+    display: flex;
+    justify-content: center;
+    flex: 1 1 auto;
+}
+.box1{
+    height: 900px;
+    width: 700px;
+}
+hr{
+    width: 20%;
+    color: black;
+    display: inline-block;
+    size: 1px;
+}
+
+.box1 h1{
+    font-size: 90px;
+    text-align: left;
+    word-spacing: 2px;
+}
+.box1 p{
+    font-size: 25px;
+
+}
+.box2 {
+    height: 1000px;
+    width: 550p
+}
+.box2 img{
+    justify-content: center;
+}
+.courtesy{
+    background-color: grey;
+    text-align: right;
+}
+.button {
+    background-color: darkorange;
+    color: blac;
+    text-align: center;
+    height: 45px;
+    font-size: 20px;
+}
